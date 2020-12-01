@@ -1,4 +1,4 @@
-[Day 1](https://adventofcode.com/2020/day/1)
+# [Day 1](https://adventofcode.com/2020/day/1)
 ## Problem a
 the Elves in accounting just need you to fix your expense report (your puzzle input); apparently, something isn't quite adding up.
 
