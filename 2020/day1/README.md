@@ -1,5 +1,5 @@
 # [Day 1](https://adventofcode.com/2020/day/1)
-## Problem a
+## Task 1
 the Elves in accounting just need you to fix your expense report (your puzzle input); apparently, something isn't quite adding up.
 
 Specifically, they need you to find the two entries that sum to 2020 and then multiply those two numbers together.
@@ -18,3 +18,10 @@ Of course, your expense report is much larger. Find the two entries that sum to 
 
 ### Notes:
 Hmmm... first thoughts were to use a greedy algo, but I think that might not work. Brute force to generate N^2 list?
+
+
+## Task 2
+
+Using the above example again, the three entries that sum to 2020 are 979, 366, and 675. Multiplying them together produces the answer, 241861950.
+
+In your expense report, what is the product of the three entries that sum to 2020?
