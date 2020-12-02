@@ -17,7 +17,7 @@ In this list, the two entries that sum to 2020 are 1721 and 299. Multiplying the
 Of course, your expense report is much larger. Find the two entries that sum to 2020; what do you get if you multiply them together?
 
 ### Notes:
-Hmmm... first thoughts were to use a greedy algo, but I think that might not work. Brute force to generate N^2 list?
+Hmmm... maybe a greedy algo? Brute force to generate N^2 list?
 
 
 ## Task 2
